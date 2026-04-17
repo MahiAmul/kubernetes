@@ -25,7 +25,7 @@
     </developers>
     <scm>
         <connection>https://github.com/MahiAmul/kubernetes.git</connection>
-        <developerConnection>scm:git:https://github.com/MahiAmul/kubernetes.git</developerConnection>
+       <!-- <developerConnection>scm:git:git@github.com:MahiAmul/kubernetes.git</developerConnection>-->
         <url>https://github.com/MahiAmul/kubernetes</url>
         <tag>HEAD</tag>
     </scm>
